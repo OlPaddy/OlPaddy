@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my Bachelor in IT specialising in Software Engineering
+- 🔭 I’m currently a student working on my Bachelor in IT specialising in Software Engineering
 - 🌱 I’m currently learning GitHub, App Development, Data Structures and Algorithms and Programming Mathematics
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
